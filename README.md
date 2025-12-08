@@ -69,8 +69,8 @@ weather_history_collector/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-history-collector.git
-cd weather-history-collector
+git clone https://github.com/youssoufplea9-golden/Weather-History-Collector
+cd Weather-History-Collector
 ```
 
 ### Step 2: Install Dependencies
