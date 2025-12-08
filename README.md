@@ -123,7 +123,7 @@ python main.py
 ```
 Enter location: London
 ✅ Weather data fetched successfully!
-📍 London | 🌡️ 15.0°C | 💧 N/A% | ⏰ 2024-12-08 14:30
+📍 London | 🌡️ 15.0°C | 💧 N/A% | ⏰ 2025-12-08 13:30
 ```
 
 #### Searching Records
