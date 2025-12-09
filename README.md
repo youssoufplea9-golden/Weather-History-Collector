@@ -1,7 +1,3 @@
-Here is the comprehensive and simple **English version** of the `README.md`, formatted professionally and including the specific authors as requested.
-
------
-
 # 🌤️ Weather History Collector
 
 **Basically it is a simple Python application for collecting, storing, and analyzing weather data.**
@@ -16,22 +12,22 @@ Here is the comprehensive and simple **English version** of the `README.md`, for
 
 ## 🚀 Project Overview
 
-[cite_start]This project is a console-based tool designed to help you managing weather data[cite: 1]. It allows you to fetch real-time weather, download historical data for the past month, store everything in a database, and generate detailed reports.
+This project is a console-based tool designed to help you managing weather data[cite: 1]. It allows you to fetch real-time weather, download historical data for the past month, store everything in a database, and generate detailed reports.
 
-[cite_start]It was built to demonstrate advanced software engineering skills, including web scraping, database management, and object-oriented programming[cite: 1].
+It was built to demonstrate advanced software engineering skills, including web scraping, database management, and object-oriented programming.
 
 -----
 
 ## 🏆 Key Achievements (Bonus Points: 40/45)
 
-[cite_start]We implemented several advanced features to meet high technical standards[cite: 1]:
+We implemented several advanced features to meet high technical standards:
 
-  * [cite_start]**Web Scraping (+10 Points):** We used the **Scrapy framework** to perform advanced data extraction[cite: 1].
-  * [cite_start]**Database (+15 Points):** Full integration with **MongoDB** to save, search, and manage weather records reliably[cite: 1].
-  * **Professional Code Structure (+15 Points):**
+**Web Scraping (+10 Points):** We used the **Scrapy framework** to perform advanced data extraction[cite: 1].
+**Database (+15 Points):** Full integration with **MongoDB** to save, search, and manage weather records reliably[cite: 1].
+  **Professional Code Structure (+15 Points):**
       * Use of **Abstract Base Classes** and Protocols.
       * Strict **Type Checking** using Python Dataclasses.
-      * [cite_start]Clean separation between business logic and the user interface[cite: 1].
+      * Clean separation between business logic and the user interface.
 
 -----
 
@@ -51,7 +47,7 @@ When you run the program, you can access the following tools via the main menu:
 
 ## 🛠️ Installation Guide
 
-[cite_start]Follow these simple steps to set up the project on your machine[cite: 1].
+Follow these simple steps to set up the project on your machine.
 
 ### 1\. Prerequisites
 
@@ -69,7 +65,7 @@ cd Weather-History-Collector
 
 ### 3\. Install Dependencies
 
-[cite_start]Install the required libraries listed in `requirements.txt`[cite: 1]:
+Install the required libraries listed in `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
@@ -77,7 +73,7 @@ pip install -r requirements.txt
 
 ### 4\. Run the Application
 
-[cite_start]Launch the main program[cite: 1]:
+Launch the main program:
 
 ```bash
 python main.py
@@ -87,7 +83,7 @@ python main.py
 
 ## 📂 Project Structure
 
-[cite_start]The code is organized logically to separate different responsibilities[cite: 1]:
+The code is organized logically to separate different responsibilities:
 
 ```text
 weather_history_collector/
@@ -113,8 +109,8 @@ weather_history_collector/
 
 ## ℹ️ Notes
 
-  * **Offline Mode:** If MongoDB is not running, the app will still work in "Offline Mode," but your data will not be saved.
-  * [cite_start]**APIs:** This project uses the Open-Meteo API (free, no key required) for standard data fetching[cite: 1].
-  * [cite_start]**Type Safety:** The entire codebase is strictly typed and checked with `mypy`[cite: 1].
+  ***Offline Mode:** If MongoDB is not running, the app will still work in "Offline Mode," but your data will not be saved.
+  ***APIs:** This project uses the Open-Meteo API (free, no key required) for standard data fetching.
+  ***Type Safety:** The entire codebase is strictly typed and checked with `mypy`.
 
 -----
