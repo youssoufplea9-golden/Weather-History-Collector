@@ -12,7 +12,7 @@
 
 ## 🚀 Project Overview
 
-This project is a console-based tool designed to help you managing weather data[cite: 1]. It allows you to fetch real-time weather, download historical data for the past month, store everything in a database, and generate detailed reports.
+This project is a console-based tool designed to help you managing weather data. It allows you to fetch real-time weather, download historical data for the past month, store everything in a database, and generate detailed reports.
 
 It was built to demonstrate advanced software engineering skills, including web scraping, database management, and object-oriented programming.
 
@@ -22,8 +22,8 @@ It was built to demonstrate advanced software engineering skills, including web 
 
 We implemented several advanced features to meet high technical standards:
 
-**Web Scraping (+10 Points):** We used the **Scrapy framework** to perform advanced data extraction[cite: 1].
-**Database (+15 Points):** Full integration with **MongoDB** to save, search, and manage weather records reliably[cite: 1].
+**Web Scraping (+10 Points):** We used the **Scrapy framework** to perform advanced data extraction.
+**Database (+15 Points):** Full integration with **MongoDB** to save, search, and manage weather records reliably.
   **Professional Code Structure (+15 Points):**
       * Use of **Abstract Base Classes** and Protocols.
       * Strict **Type Checking** using Python Dataclasses.
@@ -35,7 +35,7 @@ We implemented several advanced features to meet high technical standards:
 
 When you run the program, you can access the following tools via the main menu:
 
-1.  **🌡️ Fetch Current Weather:** Get live weather updates for any city (e.g., London, Tokyo).
+1.  **🌡️ Fetch Current Weather:** Get live weather updates for any city (e.g., London, Tokyo,Istanbul).
 2.  **📅 Fetch Historical Weather:** Download weather history for the last 1–30 days.
 3.  **🔍 Search Records:** Filter your saved data by location or temperature (e.g., "Find days above 25°C").
 4.  **📊 Generate Reports:** Create summaries or detailed location-specific reports.
